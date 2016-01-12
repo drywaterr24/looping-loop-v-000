@@ -1,5 +1,8 @@
 def looping
-	#your code here
+	loop do
+    puts "just once"
+    break
+  end
 end
 
-#call your method here
+looping
